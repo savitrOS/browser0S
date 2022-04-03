@@ -6,39 +6,39 @@ type Bookmark = {
 
 export const bookmarks: Bookmark[] = [
   {
-    icon: "/System/Icons/Favicons/google.png",
+    icon: "/System/Icons/google.png",
     name: "Google",
     url: "https://www.google.com/webhp?igu=1",
   },
   {
-    icon: "/favicon.ico",
-    name: "daedalOS",
-    url: "https://dustinbrett.com/",
+    icon: "/favicon2.ico",
+    name: "alphabreacher",
+    url: "https://alphabreacher.repl.co/",
   },
   {
-    icon: "/System/Icons/Favicons/win96.png",
-    name: "Windows 96",
-    url: "https://windows96.net/",
+    icon: "/System/Icons/yc.png",
+    name: "Y-Combinator",
+    url: "https://www.ycombinator.com/",
   },
   {
-    icon: "/System/Icons/Favicons/aos.png",
-    name: "AaronOS",
-    url: "https://aaronos.dev/AaronOS/",
+    icon: "/System/Icons/replit.png",
+    name: "Replit",
+    url: "https://replit.com/",
   },
   {
-    icon: "/System/Icons/Favicons/jspaint.png",
-    name: "JS Paint",
-    url: "https://jspaint.app/",
+    icon: "/System/Icons/youtube.png",
+    name: "YouTube",
+    url: "https://www.youtube.com/",
   },
   {
-    icon: "/System/Icons/Favicons/minecraft.png",
-    name: "Minecraft Classic",
-    url: "https://classic.minecraft.net/",
+    icon: "/System/Icons/airbnb.png",
+    name: "AirBnB",
+    url: "https://www.airbnb.co.in/",
   },
   {
-    icon: "/System/Icons/Favicons/diablo.png",
-    name: "Diablo",
-    url: "https://d07riv.github.io/diabloweb/",
+    icon: "/System/Icons/zoom.png",
+    name: "Zoom",
+    url: "https://zoom.us/",
   },
 ];
 
